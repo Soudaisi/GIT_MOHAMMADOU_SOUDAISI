@@ -1,9 +1,9 @@
 # Annuaire d'Employés - Projet GIT PHP/MySQL
 
-## 📌 Objectif
+## Objectif
 Mettre en place un site dynamique avec gestion de versions via Git.
 
-## 🗂️ Branches utilisées
+## Branches utilisées
 - `main` : version stable
 - `dev` : intégration globale
 - `feature/db-setup` : base de données
@@ -13,7 +13,7 @@ Mettre en place un site dynamique avec gestion de versions via Git.
 - `test/backend` et `test/frontend` : tests
 
 
-## 🔧 Technologies
+## Technologies
 - PHP
 - MySQL
 - HTML/CSS
